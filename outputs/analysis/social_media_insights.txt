@@ -1,0 +1,10 @@
+SOCIAL MEDIA ENGAGEMENT ANALYSIS
+--------------------------------
+
+Total Posts: 5000
+Average Likes: 7536.84
+Average Comments: 339.9
+Total Engagement: 47325606
+Best Platform: TikTok
+Best Content Type: Duet
+Best Sentiment: Positive
